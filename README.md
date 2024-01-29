@@ -38,5 +38,5 @@ python3 pipacs.py
 ## Tulajdonságok
 - képes youtube url alapján mp3-at, HD vagy FullHD videót letölteni 
 - ugyanezeket tudja playlistek esetén is, de ekkor át kell állítani a felső radiógombot
-- ha nem található (vagy valamiért nem tudja letölteni) a FullHD-t vagy HD-t, akkor a következő legnagyobbal próbálkozik
-- a különleges karakterekkel néha problémája akadt, így a címek nem mindig felelnek meg a youtube-on található címekkel, előfordult, hogy egyszerűsítésre kerülnek, illetve FullHD esetén egy `_FHD` toldást kapnak
+- ha nem található (vagy valamiért nem tudja letölteni) a FullHD vagy HD, akkor a következő legnagyobbal próbálkozik
+- a különleges karakterekkel néha problémája akadt, így a címek nem mindig felelnek meg a youtube-on található címekkel, előfordul, hogy egyszerűsítésre kerülnek, illetve FullHD esetén egy `_FHD` toldást kapnak
