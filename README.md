@@ -5,7 +5,7 @@
 
 ## Függőségek
 - Python3
-- TKinter modul (Windows-on alapból tartalmazza a Python, de az a Ubuntu 22.04 hiányolta)
+- TKinter modul (Windows-on alapból tartalmazza a Python, de az Ubuntu 22.04 hiányolta)
 ``` bash
 sudo apt install python3-tk
 ```
@@ -38,5 +38,5 @@ python3 pipacs.py
 ## Tulajdonságok
 - képes youtube url alapján mp3-at, HD vagy FullHD videót letölteni 
 - ugyanezeket tudja playlistek esetén is, de ekkor át kell állítani a felső radiógombot
-- ha nem található (vagy valamiért nem tudja letölteni) a FullHD vagy HD, akkor a következő legnagyobbal próbálkozik
+- ha nem található (vagy valamiért nem tudja letölteni) FullHD vagy HD, akkor a következő legnagyobbal próbálkozik
 - a különleges karakterekkel néha problémája akadt, így a címek nem mindig felelnek meg a youtube-on található címekkel, előfordul, hogy egyszerűsítésre kerülnek, illetve FullHD esetén egy `_FHD` toldást kapnak
